@@ -1,0 +1,54 @@
+*{
+    /*px单位，（加了在wenatorm上会有警告）
+      默认可以不加
+    */
+    padding: 0;
+    margin: 0;
+}
+
+.simgclass{
+    position: absolute;
+}
+
+.btn{
+    position: absolute;
+    height:90px;
+    width:60px;
+    background: rgba(0,0,0,0.5);
+    color: white;
+    text-align: center;
+    line-height: 90px;
+    font-size: 40px;
+    top: 355px;
+    cursor: pointer;
+    /*display: none;*/
+}
+.btnRight{
+    left: 420px;
+}
+
+ul{
+    list-style: none;
+}
+
+.tabsid{
+    position: absolute;
+    top: 750px;
+    left: 140px;
+}
+
+.tabclass{
+    width: 30px;
+    height: 30px;
+    background-color: #5388e8;
+    float: left;
+    text-align: center;
+    color: white;
+    margin-right: 10px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.bg{
+    background-color: red;
+}
