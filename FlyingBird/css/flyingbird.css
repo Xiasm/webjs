@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+}
+
+#dbird{
+    position: absolute;
+}
+
+.dir_37{
+    transform:rotateY(0deg);
+}
+
+.dir_38{
+    transform:rotate(120deg);
+}
+
+.dir_39{
+    transform:rotateY(180deg);
+}
+
+.dir_40{
+    transform:rotate(-120deg);
+}
